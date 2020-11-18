@@ -1,0 +1,15 @@
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/seguranca/UserDetailsImpl.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/repository/TemaRepository.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/repository/PostagemRepository.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/BlogBarbaraApplication.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/model/Postagem.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/repository/UsuarioRepository.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/controller/PostagemController.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/controller/UsuarioController.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/model/Tema.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/model/Usuario.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/seguranca/UserDetailsServiceImpl.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/service/UsuarioService.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/seguranca/BasicSecurityConfig.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/model/UserLogin.java
+/blogpessoal-api/src/main/java/com/barbara/blog_barbara/controller/TemaController.java

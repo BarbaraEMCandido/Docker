@@ -1,0 +1,15 @@
+com/barbara/blog_barbara/seguranca/UserDetailsServiceImpl.class
+com/barbara/blog_barbara/seguranca/UserDetailsImpl.class
+com/barbara/blog_barbara/model/Tema.class
+com/barbara/blog_barbara/model/UserLogin.class
+com/barbara/blog_barbara/repository/TemaRepository.class
+com/barbara/blog_barbara/repository/UsuarioRepository.class
+com/barbara/blog_barbara/controller/PostagemController.class
+com/barbara/blog_barbara/model/Postagem.class
+com/barbara/blog_barbara/repository/PostagemRepository.class
+com/barbara/blog_barbara/service/UsuarioService.class
+com/barbara/blog_barbara/controller/TemaController.class
+com/barbara/blog_barbara/model/Usuario.class
+com/barbara/blog_barbara/seguranca/BasicSecurityConfig.class
+com/barbara/blog_barbara/controller/UsuarioController.class
+com/barbara/blog_barbara/BlogBarbaraApplication.class
